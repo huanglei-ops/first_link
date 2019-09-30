@@ -18,6 +18,6 @@ int main()
 	for(i=0;i<5;i++)
 	{
 	printf("%d\n",arr[i]);}
-	printf("huanglei\n");
+	//printf("huanglei\n");
 return 0;
 }
